@@ -1,5 +1,5 @@
 <?php
-namespace Rocketeer\Plugins\Slack;
+namespace Rocketeer\Plugins\Discord;
 
 use Illuminate\Container\Container;
 use Rocketeer\Plugins\AbstractNotifier;

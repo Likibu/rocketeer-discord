@@ -2,7 +2,6 @@
 
 return array(
 
-    // Slack room credentials
     'url' => '',
     'username' => '',
 
